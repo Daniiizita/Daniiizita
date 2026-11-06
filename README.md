@@ -115,7 +115,7 @@ I'm comfortable across the stack, from Angular front ends to backend APIs and le
 
 - **Postgraduate Specialization in Big Data & Data Science**, Faculdades Iguaçu (2025). Thesis on Generative AI in Data Science, graded 94/100.
 - **B.Sc. in Information Systems**, Faculdades IESGO (2023)
-- **Certifications:** Google AI Essentials (Coursera, 2025) · Java in 7 Days with Real Projects (Udemy, 2025)
+- **Certifications:** Google AI Essentials (Coursera, 2025) · Java with Real Projects (Udemy, 2025)
 
 ## Let's connect
 
