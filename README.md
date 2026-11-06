@@ -3,13 +3,14 @@
 <p align="center">
   <b>Full-Stack Software Engineer</b> · Angular · Java/Quarkus · Python<br/>
   3+ years building production systems, currently for Brazil's largest public bank (150M+ customers)<br/>
-  📍 Brasília, Brazil · Remote (UTC−3, solid overlap with European working hours) · 🌍 Open to roles with European teams
+  📍 Brasília, Brazil · Remote (UTC−3, solid overlap with European working hours) · 🌍 Open to roles with teams in Europe and North America
 </p>
 
 <p align="center">
+  <a href="https://dani-portfolio-rosy.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dani--portfolio-000000?logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/danielle-de-paula18/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danielle%20de%20Paula-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:goncalvesdani54.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goncalvesdani54%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
-  <img alt="Languages" src="https://img.shields.io/badge/English-professional%20working%20proficiency-555555">
+  <a href="mailto:goncalvesdani54.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goncalvesdani54.dev%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <img alt="English" src="https://img.shields.io/badge/English-professional%20working%20proficiency-555555">
   <img alt="Portuguese" src="https://img.shields.io/badge/Portuguese-native-555555">
 </p>
 
@@ -118,7 +119,7 @@ I'm comfortable across the stack, from Angular front ends to backend APIs and le
 
 ## Let's connect
 
-I'm looking for **full-stack or backend roles with European teams**, where I can keep building end to end, from data model and API to the interface, especially in fintech and privacy-sensitive products. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/danielle-de-paula18/) or [email](mailto:goncalvesdani54@gmail.com).
+I'm looking for **full-stack or backend roles with European teams**, where I can keep building end to end, from data model and API to the interface, especially in fintech and privacy-sensitive products. You can see more of my work on my [portfolio](https://dani-portfolio-rosy.vercel.app/). The best way to reach me is [LinkedIn](https://www.linkedin.com/in/danielle-de-paula18/) or [email](mailto:goncalvesdani54@gmail.com).
 
 ---
 
@@ -149,6 +150,6 @@ Tenho pós-graduação em Big Data e Ciência de Dados e bacharelado em Sistemas
 
 ## Vamos conversar
 
-Busco vagas full-stack ou backend em que eu possa continuar construindo de ponta a ponta, do modelo de dados e da API até a interface. O melhor contato é pelo [LinkedIn](https://www.linkedin.com/in/danielle-de-paula18/) ou por [e-mail](mailto:goncalvesdani54@gmail.com).
+Busco vagas full-stack ou backend em que eu possa continuar construindo de ponta a ponta, do modelo de dados e da API até a interface. Veja mais no meu [portfólio](https://dani-portfolio-rosy.vercel.app/). O melhor contato é pelo [LinkedIn](https://www.linkedin.com/in/danielle-de-paula18/) ou por [e-mail](mailto:goncalvesdani54@gmail.com).
 
 </details>
