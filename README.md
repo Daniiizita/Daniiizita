@@ -1,72 +1,97 @@
 <h1 align="center">Hi, I'm Danielle (Dani) 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer</b> · Java/Quarkus · Kafka · Angular · Python<br/>
-  3+ years building enterprise systems for regulated banking, event-driven backends and data products<br/>
-  📍 Brasília, Brazil (UTC−3, 4–5 h overlap with European working hours) · 🌍 Open to remote roles with EU teams and relocation
+  <b>Full-Stack Software Engineer</b> · Angular · Java/Quarkus · Python<br/>
+  3+ years building production systems, currently for Brazil's largest public bank (150M+ customers)<br/>
+  📍 Brasília, Brazil · Remote (UTC−3, solid overlap with European working hours) · 🌍 Open to roles with European teams
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielle-de-paula18/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danielle%20de%20Paula-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:goncalvesdani54@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goncalvesdani54%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
-  <img alt="Languages" src="https://img.shields.io/badge/Languages-English%20%C2%B7%20Portuguese%20(native)-555555">
+  <img alt="Languages" src="https://img.shields.io/badge/English-professional%20working%20proficiency-555555">
+  <img alt="Portuguese" src="https://img.shields.io/badge/Portuguese-native-555555">
 </p>
 
 ---
 
 ## About me
 
-I'm a full-stack software engineer who likes turning real-world processes into software that is simple to use and **safe by design**.
+I'm a full-stack engineer who likes turning real-world processes into software that is simple to use and **safe by design**.
 
-Today I work on **Caixa Econômica Federal**, one of Latin America's largest public banks, through Engesoftware, building and maintaining a **data-privacy compliance system under the LGPD**, Brazil's equivalent of the **GDPR**. That means working every day with personal-data protection, auditability and the constraints of a highly regulated financial environment.
+Today I build Angular and Java/Quarkus systems for **Caixa Econômica Federal**, Brazil's largest public bank, in a highly regulated environment: **data privacy (LGPD, Brazil's GDPR-equivalent law)**, **Central Bank communications** and **tax compliance**. Before that, I built a reporting automation that eliminated **~300 hours/month of manual work across 150+ clients**.
 
-My path went from freelance and BI/data work, through a startup, to enterprise banking. Along the way I designed **IZE**, an event-driven workflow automation built on **Kafka and Quarkus** that saves **about 300 hours of manual work every month across 150+ clients**.
-
-I'm now growing toward **software architecture**, with a focus on **AI engineering for Java enterprise systems** (LLMs, RAG and agents with `quarkus-langchain4j`).
+I'm comfortable across the stack, from Angular front ends to backend APIs and legacy integrations (SOAP, OAuth 2.0 SSO), and I have hands-on experience with **GenAI and RAG**.
 
 ## Experience
 
-**Full-Stack Developer · Engesoftware, working for Caixa Econômica Federal** · Brasília · Aug 2025 – present
-- Develop features end to end for an LGPD (GDPR-equivalent) data-privacy compliance system in a regulated banking environment.
-- Build backend services in **Java/Quarkus** and front ends in **Angular 19**, delivered through **Azure DevOps CI/CD**.
-- Integrate with secured external APIs using **OAuth2/OIDC (Keycloak)** and TLS/mTLS configuration.
-- Help investigate production incidents in batch workloads (Spring Batch, Control-M scheduling).
+**Full-Stack Developer · Engesoftware, consulting for Caixa Econômica Federal** · Aug 2025 – present
+- Develop and maintain **3 production systems** (Angular 19 + Java/Quarkus): two built from scratch, one legacy.
+- **Data privacy (LGPD/GDPR):** build the system customers use to grant, authorize and object to the processing of their personal data, including batch processing jobs.
+- **Central Bank integration:** Java services that consume the Central Bank of Brazil's SOAP web service for official correspondence and expose it through REST APIs across the bank.
+- **Tax compliance:** features for the tax analysis of customers residing outside Brazil.
+- OAuth 2.0 single sign-on, Angular UIs with Reactive Forms, RxJS and the bank's Design System, and Azure DevOps CI/CD.
+- Backend design decisions with Clean Architecture and SOLID, aligned with the bank's architecture team; contributions to GenAI initiatives (RAG, prompt engineering, Gemini API).
 
-**Earlier** · Startup, freelance, BI and data work
-- Designed **IZE**, a Kafka + Quarkus workflow automation that removes about **300 hours/month** of manual work for **150+ clients**.
-- Built Power BI dashboards and Python data pipelines on public and business data.
-- Delivered full-stack web apps with Django, React and FastAPI for freelance clients.
+**Full-Stack Developer · IZE Gestão Empresarial** · Feb 2025 – Aug 2025
+- Built an end-to-end **financial reporting automation** in Python (Pandas, Jinja2, PDFKit), exposed as a FastAPI REST API with automated delivery via n8n: **2 hours saved per client, 150+ clients, ~300 hours/month**.
+- Shipped full-stack features with React, TypeScript and GCP Cloud Functions.
+- Wrote complex SQL for financial KPIs across multiple data sources, backed by unit and integration tests.
 
-## What I bring
+**Data & BI Analyst · Agência de Dados (Jarbis)** · Jun 2024 – Dec 2024
+- Built ETL pipelines in Pentaho PDI consolidating multiple sources into data warehouses, and 7 Power BI dashboards (2 from scratch) for executive reporting, with automated refreshes.
 
-- **Event-driven and backend systems:** Java, Quarkus, Apache Kafka, Django/DRF, FastAPI, REST and OpenAPI
-- **Security and privacy by design:** JWT and OAuth2/OIDC, role-based access enforced on the server, LGPD/GDPR-aware data handling
-- **Front end:** Angular 19, React, TypeScript, Tailwind CSS
-- **Data:** postgraduate degree in Big Data and Data Science, Python (pandas), Power BI
-- **Delivery:** Docker, Azure DevOps and GitHub Actions pipelines, automated testing (e.g. a 157-test suite in one of my projects)
+**Full-Stack Developer · Freelance** · Jun 2022 – present
+- DISC behavioral assessment platform: Django REST API with 10+ endpoints, React front end with 20+ reusable components, MySQL and Docker.
+
+## Highlights
+
+- 🏦 Production software in **regulated banking**: privacy, Central Bank and tax compliance
+- ⏱️ **~300 hours/month** of manual work eliminated by an automation I built
+- 🏆 **5th place, Campus Party 2025 Hackathon**: women's safety app with a geolocated emergency button, AI-powered data relay and a collaborative risk map, built by a team in one sprint
 
 ## Tech stack
 
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular%2019-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+**Backend**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+**Data & AI**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?logo=googlegemini&logoColor=white)
+
+**DevOps & tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+**Practices:** REST, SOAP, OAuth 2.0 SSO · Clean Architecture, SOLID · unit and integration testing · Agile/Scrum
 
 ## Featured projects
 
@@ -80,18 +105,20 @@ I'm now growing toward **software architecture**, with a focus on **AI engineeri
 
 ## Currently learning
 
-- 🤖 **AI engineering in Java:** `quarkus-langchain4j`, from chatbot to RAG to agents to a Kafka-integrated AI pipeline
+- 🤖 **AI engineering in Java** with `quarkus-langchain4j`: chatbots, RAG and agents
+- 🔀 **Event-driven architecture and microservices** with Apache Kafka
 - ☁️ **AWS Certified Solutions Architect – Associate** (in preparation)
 - 🏗️ **System design and software architecture**
 
 ## Education
 
-- **Postgraduate degree (Specialization) in Big Data and Data Science**
-- **Bachelor's degree in Information Systems**, Faculdades IESGO, Brazil (2023)
+- **Postgraduate Specialization in Big Data & Data Science**, Faculdades Iguaçu (2025). Thesis on Generative AI in Data Science, graded 94/100.
+- **B.Sc. in Information Systems**, Faculdades IESGO (2023)
+- **Certifications:** Google AI Essentials (Coursera, 2025) · Java in 7 Days with Real Projects (Udemy, 2025)
 
 ## Let's connect
 
-I'm looking for **software engineering roles with European teams**, remote or with relocation, where I can keep building end to end: from data model and API to the interface, especially in fintech, privacy-sensitive or event-driven products. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/danielle-de-paula18/) or [email](mailto:goncalvesdani54@gmail.com).
+I'm looking for **full-stack or backend roles with European teams**, where I can keep building end to end, from data model and API to the interface, especially in fintech and privacy-sensitive products. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/danielle-de-paula18/) or [email](mailto:goncalvesdani54@gmail.com).
 
 ---
 
@@ -104,11 +131,11 @@ I'm looking for **software engineering roles with European teams**, remote or wi
 
 Sou desenvolvedora full-stack e gosto de transformar processos do mundo real em sistemas simples de usar e **seguros por padrão**.
 
-Hoje atuo na **Caixa Econômica Federal**, pela Engesoftware, desenvolvendo e mantendo um **sistema de conformidade com a LGPD** em um ambiente bancário altamente regulado, com Java/Quarkus, Angular 19 e CI/CD no Azure DevOps.
+Hoje desenvolvo sistemas em Angular e Java/Quarkus para a **Caixa Econômica Federal**, pela Engesoftware, em um ambiente altamente regulado: **privacidade de dados (LGPD)**, **comunicação com o Banco Central** e **conformidade tributária**. Atuo em 3 sistemas em produção, dois deles construídos do zero.
 
-Minha trajetória passou por freelas e BI/dados, uma startup e agora o setor bancário. Nesse caminho, projetei o **Sistema de Relatórios Mensais da IZE**, uma automação orientada a eventos com **Kafka e Quarkus** que economiza **cerca de 300 horas de trabalho manual por mês para mais de 150 clientes**.
+Antes disso, na IZE Gestão Empresarial, construí uma automação de relatórios financeiros em Python que eliminou **cerca de 300 horas de trabalho manual por mês para mais de 150 clientes**. Também atuei como analista de dados e BI, com ETL e dashboards em Power BI.
 
-Meu foco agora é crescer rumo à **arquitetura de software**, com ênfase em **engenharia de IA para sistemas Java corporativos** (LLMs, RAG e agentes com `quarkus-langchain4j`). Tenho pós-graduação em Big Data e Data Science e graduação em Sistemas de Informação.
+Tenho pós-graduação em Big Data e Ciência de Dados e bacharelado em Sistemas de Informação. Hoje estudo engenharia de IA com `quarkus-langchain4j`, arquitetura orientada a eventos com Kafka e arquitetura de software.
 
 ## Projetos em destaque
 
@@ -122,6 +149,6 @@ Meu foco agora é crescer rumo à **arquitetura de software**, com ênfase em **
 
 ## Vamos conversar
 
-Busco vagas de desenvolvimento de software, remotas ou com realocação, em que eu possa continuar construindo de ponta a ponta, do modelo de dados e da API até a interface. O melhor contato é pelo [LinkedIn](https://www.linkedin.com/in/danielle-de-paula18/) ou por [e-mail](mailto:goncalvesdani54@gmail.com).
+Busco vagas full-stack ou backend em que eu possa continuar construindo de ponta a ponta, do modelo de dados e da API até a interface. O melhor contato é pelo [LinkedIn](https://www.linkedin.com/in/danielle-de-paula18/) ou por [e-mail](mailto:goncalvesdani54@gmail.com).
 
 </details>
