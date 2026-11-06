@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielle-de-paula18/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danielle%20de%20Paula-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:goncalvesdani54@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goncalvesdani54%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <a href="mailto:goncalvesdani54.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goncalvesdani54%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
   <img alt="Languages" src="https://img.shields.io/badge/English-professional%20working%20proficiency-555555">
   <img alt="Portuguese" src="https://img.shields.io/badge/Portuguese-native-555555">
 </p>
